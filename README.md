@@ -19,5 +19,7 @@
    </div>
     <h1>👇 MEU PORTIFOLIO 👇  </h1> 
  https://saraiva97.github.io/ 
-
-    ![Snake animation](https://github.com/Saraiva97/Saraiva97/blob/output/github-contribution-grid-snake.svg)
+ 
+ <div>
+![Snake animation](https://github.com/Saraiva97/Saraiva97/blob/output/github-contribution-grid-snake.svg)
+</div>
