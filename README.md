@@ -20,4 +20,4 @@
     <h1>👇 MEU PORTIFOLIO 👇  </h1> 
  https://saraiva97.github.io/ 
 
-    ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Saraiva97/Saraiva97/blob/output/github-contribution-grid-snake.svg)
