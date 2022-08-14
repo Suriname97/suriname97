@@ -18,7 +18,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
     <h1>👇 MEU PORTIFOLIO 👇  </h1> 
- https://saraiva97.github.io/ 
+   👉 https://saraiva97.github.io/ 👈
  
  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
